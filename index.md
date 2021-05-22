@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/10797560" height="auto" width="300" style="border-radius:50%"><br>
@@ -27,8 +27,8 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 # EDUCATION
 
-IIT - Delhi
-The Air Force School Subroto Park X/XII
+IIT - Delhi : B.Tech in Electrical Engineering & M.Tech in Infomation and Communication Technology
+The Air Force School Subroto Park X/XII : PCM + Computer Science
 
 ---
 
