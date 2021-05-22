@@ -1,4 +1,4 @@
-<link rel="icon" href="https://gs1293.github.io/favicon.ico"/>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/10797560" height="auto" width="300" style="border-radius:50%"><br>
