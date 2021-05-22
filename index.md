@@ -1,7 +1,4 @@
----
-layout: default
----
-<body>
+<link rel="icon" href="https://gs1293.github.io/favicon.ico"/>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/10797560" height="auto" width="300" style="border-radius:50%"><br>
@@ -19,8 +16,6 @@ layout: default
   <a href="https://github.com/gs1293"> <font size="-1">Github Profile</font></a>
   </b>
 </p>  
-  
-</body>
 
 # ABOUT
 # EXPERIENCE
