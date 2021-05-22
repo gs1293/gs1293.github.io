@@ -21,3 +21,10 @@ layout: default
 </p>  
   
 </body>
+
+# ABOUT
+# EXPERIENCE
+# EDUCATION
+# SKILLS
+# INTERESTS
+# AWARDS
