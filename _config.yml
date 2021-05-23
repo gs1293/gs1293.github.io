@@ -3,5 +3,5 @@ description: Website to showcase my projects
 show_downloads: true
 google_analytics:
 github:
-is_project_page: true
+  is_project_page: true
 theme: jekyll-theme-cayman
