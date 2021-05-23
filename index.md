@@ -36,11 +36,13 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 ---
 
 # SKILLS
+
 |             |       |
 | :---:       | :---: |
 | Languages   | Verilog, Python, C/C++, Bash, MATLAB |
 | EDA Tools   | Cadence (irun, SimVision, IMC Coverage), Ansys (Power Artist)Synopsys (SpyGlass Lint, Design Compiler, VCS, DVE, Verdi) |
 | Other Tools | Vim, Git, Latex |
+
 ---
 
 # INTERESTS
