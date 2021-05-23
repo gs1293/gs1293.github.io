@@ -8,6 +8,7 @@
 * Texture Creation
 * Inverse Tone Mapping
 * Motion Estimation
+  ![](../images/motion_estimation.png)
 * Local Contrast Enhancement
 * Asynchronous FIFO
 * Neural Processing Unit
