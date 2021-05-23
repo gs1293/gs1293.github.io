@@ -4,4 +4,5 @@ show_downloads: true
 google_analytics:
 github:
   is_project_page: true
+  home_url: https://gs1293.github.io/
 theme: jekyll-theme-cayman
