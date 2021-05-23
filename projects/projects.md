@@ -7,7 +7,7 @@
 * Text Detection
 * Texture Creation
 * Inverse Tone Mapping
-* Motion Estimation
+* Motion Estimation<br>
   ![](../images/motion_estimation.png)
 * Local Contrast Enhancement
 * Asynchronous FIFO
@@ -16,7 +16,7 @@
 * Hybrid Deep Learning Super Scalar
 * Deep Learning Super Scalar
 * Mode Decision
-* Bilateral Filter
+* Bilateral Filter<br>
   ![](../images/bilateral_filter.jpg)
 * DLSR with MAC Architecture
 * DLSR with Winograd Architecture
