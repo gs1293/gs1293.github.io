@@ -45,10 +45,6 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 ---
 
-# INTERESTS
-
----
-
 # AWARDS
 
 | Year | Award                                                                    | 
@@ -61,8 +57,6 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 ---
 
-<p align="center">
-  <b>
-  <a href="https://github.com/gs1293"> <font size="-1">Github Profile</font></a>
-  </b>
-</p>
+# INTERESTS
+
+---
