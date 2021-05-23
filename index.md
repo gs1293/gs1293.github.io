@@ -27,8 +27,14 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 # EDUCATION
 
-IIT - Delhi : B.Tech in Electrical Engineering & M.Tech in Infomation and Communication Technology
-The Air Force School Subroto Park X/XII : PCM + Computer Science
+ : 
+ X/XII : PCM + Computer Science
+
+| Year      | College/School | Degree/Class | CGPA/%age |
+| ----------- | ----------- | ----------- | ----------- |
+| 2011 - 2016 | Indian Institute of Technology Delhi | B.Tech in Electrical Engineering & M.Tech in Infomation and Communication Technology | UG - 7.052/10, PG - 7.354/10 |
+| 2010   | The Air Force School, Subroto Park | Senior Secondary Education - XII | 84% |
+| 2008   | The Air Force School, Subroto Park | Secondary Education - X | 84.67% |
 
 ---
 
