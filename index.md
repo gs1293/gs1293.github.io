@@ -59,8 +59,10 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 # INTERESTS & HOBBIES
 
-| Sports | Basketball, Coding, Speed Cubing, Cricket, Table Tennis, Volleyball |
-| Fun | PC Gaming, Watching TV Series/Anime/Movies |
-| Technical | Distro Hopping, FOSS |
+| Type      | Interests                                                           |
+| :---      | :---                                                                |
+| Sports    | Basketball, Coding, Speed Cubing, Cricket, Table Tennis, Volleyball |
+| Fun       | PC Gaming, Watching TV Series/Anime/Movies                          |
+| Technical | Distro Hopping, FOSS                                                |
 
 ---
