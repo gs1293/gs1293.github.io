@@ -17,6 +17,7 @@
 * Deep Learning Super Scalar
 * Mode Decision
 * Bilateral Filter
+  ![](../images/bilateral_filter.jpg)
 * DLSR with MAC Architecture
 * DLSR with Winograd Architecture
 * WGMA/DCARN/MLSR : Power Optimization
