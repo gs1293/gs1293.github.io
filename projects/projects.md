@@ -20,7 +20,8 @@
   ![](../images/bilateral_filter.jpg)
 * DLSR with MAC Architecture
 * DLSR with Winograd Architecture
-* WGMA/DCARN/MLSR : Power Optimization
+* WGMA/DCARN/MLSR : Power Optimization<br>
+  ![](../images/clock_gating.png)
 * Python/Bash scripting
 * DL0, Post Processing, NPU
 
