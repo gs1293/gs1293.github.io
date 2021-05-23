@@ -6,7 +6,8 @@
 
 * Text Detection
 * Texture Creation
-* Inverse Tone Mapping
+* Inverse Tone Mapping<br>
+  ![](../images/inverse_tm.jpg)
 * Motion Estimation<br>
   ![](../images/motion_estimation.png)
 * Local Contrast Enhancement
