@@ -1,3 +1,6 @@
+layout: page
+title: "PAGE TITLE"
+
 # MY PROJECTS
 
 ---
