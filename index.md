@@ -39,7 +39,7 @@ I have hands on experience of various industry level EDA Tools used in Front-end
 # SKILLS
 
 | Type        | Tools                                                                                                                       |
-| :---        | :---                                                                                                                        |
+| :---:       | :---                                                                                                                        |
 | Languages   | Verilog, Python, C/C++, Bash, MATLAB                                                                                        |
 | EDA Tools   | Cadence (irun, SimVision, IMC Coverage), Ansys (Power Artist)<br>Synopsys (SpyGlass Lint, Design Compiler, VCS, DVE, Verdi) |
 | Other Tools | Vim, Git, Latex                                                                                                             |
@@ -48,20 +48,20 @@ I have hands on experience of various industry level EDA Tools used in Front-end
 
 # AWARDS
 
-| Year | Award                                                                    | 
-| :--- | :---                                                                     |
-| 2020 | Outstanding Performance Award Q3, Samsung R&D Institute India - Delhi    |
-| 2016 | Young Achiever of the Year Award, Samsung R&D Institute India - Delhi    |
-| 2015 | All India Rank 6153, GATE, ECE secured this rank among 1,72,714 candidates<br>was awarded MHRD Scholarship for Engineering Aptitude and T.A. role in Electrical Department Courses |
-| 2011 | All India Rank 3273, IIT-JEE secured this rank among 4,68,240 candidates |
-| 2011 | All India Rank 1154, AIEEE secured this rank among 10,65,100 candidates  |
+| Year  | Award                                                                    | 
+| :---: | :---                                                                     |
+| 2020  | Outstanding Performance Award Q3, Samsung R&D Institute India - Delhi    |
+| 2016  | Young Achiever of the Year Award, Samsung R&D Institute India - Delhi    |
+| 2015  | All India Rank 6153, GATE, ECE secured this rank among 1,72,714 candidates<br>was awarded MHRD Scholarship for Engineering Aptitude and T.A. role in Electrical Department Courses |
+| 2011  | All India Rank 3273, IIT-JEE secured this rank among 4,68,240 candidates |
+| 2011  | All India Rank 1154, AIEEE secured this rank among 10,65,100 candidates  |
 
 ---
 
 # INTERESTS & HOBBIES
 
 | Type      | Interests                                                           |
-| :---      | :---                                                                |
+| :---:     | :---                                                                |
 | Sports    | Basketball, Coding, Speed Cubing, Cricket, Table Tennis, Volleyball |
 | Fun       | PC Gaming, Watching TV Series/Anime/Movies                          |
 | Technical | Distro Hopping, FOSS                                                |
