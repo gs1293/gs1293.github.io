@@ -6,5 +6,6 @@ resume_url: https://drive.google.com/file/d/1pHoCx7hFStZErq-d8E4ukYHmfi7QpkT7/vi
 google_analytics:
 github:
   is_project_page: true
+  show_homepage: true
   home_url: https://gs1293.github.io/
 theme: jekyll-theme-cayman
