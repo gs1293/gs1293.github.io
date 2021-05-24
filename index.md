@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <link rel="icon" href="https://gs1293.github.io/favicon.ico?v=2"/>
 
 <p align="center">
