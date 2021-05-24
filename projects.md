@@ -1,9 +1,5 @@
 layout: page
-title: "PAGE TITLE"
-
-# MY PROJECTS
-
----
+title: PROJECTS
 
 # Samsung Projects
 
