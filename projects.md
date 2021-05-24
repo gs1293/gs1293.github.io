@@ -5,27 +5,25 @@ title: MY PROJECTS
 
 # Samsung Projects
 
-* Text Detection
-* Texture Creation
-* Inverse Tone Mapping<br>
-  ![](images/inverse_tm.jpg)
-* Motion Estimation<br>
-  ![](images/motion_estimation.png)
-* Local Contrast Enhancement
-* Asynchronous FIFO
-* Neural Processing Unit
-* Contrast Enhancement
-* Hybrid Deep Learning Super Scalar
-* Deep Learning Super Scalar
-* Mode Decision
-* Bilateral Filter<br>
-  ![](images/bilateral_filter.jpg)
-* DLSR with MAC Architecture
-* DLSR with Winograd Architecture
-* WGMA/DCARN/MLSR : Power Optimization<br>
-  ![](images/clock_gating.png)
-* Python/Bash scripting
-* DL0, Post Processing, NPU
+| Project | Details |
+| :---:   | :---:   |
+| Text Detection | |
+| Texture Creation | |
+| Inverse Tone Mapping | ![](images/inverse_tm.jpg) |
+| Motion Estimation | ![](images/motion_estimation.png) |
+| Local Contrast Enhancement | |
+| Asynchronous FIFO | |
+| Neural Processing Unit | |
+| Contrast Enhancement | |
+| Hybrid Deep Learning Super Scalar | |
+| Deep Learning Super Scalar | |
+| Mode Decision | |
+| Bilateral Filter | ![](images/bilateral_filter.jpg) |
+| DLSR with MAC Architecture | |
+| DLSR with Winograd Architecture | |
+| WGMA/DCARN/MLSR : Power Optimization | ![](images/clock_gating.png) |
+| Python/Bash scripting | |
+| DL0, Post Processing, NPU | |
 
 ---
 
