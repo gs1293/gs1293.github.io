@@ -12,7 +12,8 @@ layout: default
 
 # ABOUT
 
-I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
+I am a Front-end ASIC digital hardware designer, with 5 years of experience in designing Video Display IP's.
+I have hands on experience of various industry level EDA Tools used in Front-end ASIC design process.
 
 ---
 
