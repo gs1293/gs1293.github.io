@@ -1,6 +1,6 @@
 ---
-layout: page
-title: PROJECTS
+layout: default
+title: MY PROJECTS
 ---
 
 # Samsung Projects
