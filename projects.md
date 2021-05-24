@@ -1,4 +1,4 @@
-# Projects
+# MY PROJECTS
 
 ---
 
@@ -7,9 +7,9 @@
 * Text Detection
 * Texture Creation
 * Inverse Tone Mapping<br>
-  ![](../images/inverse_tm.jpg)
+  ![](images/inverse_tm.jpg)
 * Motion Estimation<br>
-  ![](../images/motion_estimation.png)
+  ![](images/motion_estimation.png)
 * Local Contrast Enhancement
 * Asynchronous FIFO
 * Neural Processing Unit
@@ -18,11 +18,11 @@
 * Deep Learning Super Scalar
 * Mode Decision
 * Bilateral Filter<br>
-  ![](../images/bilateral_filter.jpg)
+  ![](images/bilateral_filter.jpg)
 * DLSR with MAC Architecture
 * DLSR with Winograd Architecture
 * WGMA/DCARN/MLSR : Power Optimization<br>
-  ![](../images/clock_gating.png)
+  ![](images/clock_gating.png)
 * Python/Bash scripting
 * DL0, Post Processing, NPU
 

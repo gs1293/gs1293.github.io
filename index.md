@@ -20,11 +20,8 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
 
 ## Lead Engineer
 - 5 years experience working as a Hardware Design Enginner at Samsung R&D Institute Delhi.
-<p>  
-  <a href="https://gs1293.github.io/projects/projects.html"> <font size="+2">My Projects</font></a> <font size="+2"></font>
-</p>
 
-[Projects](projects/projects.md)
+[Projects](projects.md)
 
 ---
 
