@@ -24,6 +24,8 @@ I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
   <a href="https://gs1293.github.io/projects/projects.html"> <font size="+2">My Projects</font></a> <font size="+2"></font>
 </p>
 
+[Projects](projects/projects.md)
+
 ---
 
 # EDUCATION
