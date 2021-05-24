@@ -1,5 +1,7 @@
+---
 layout: page
 title: PROJECTS
+---
 
 # Samsung Projects
 
