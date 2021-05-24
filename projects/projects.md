@@ -61,6 +61,35 @@
 
 ---
 
+# Hardware Design Specific Courses
+
+* NPTEL: Hardware Modeling Using Verilog
+* NPTEL: VLSI Physical Design
+* NPTEL: Digital Circuits and Systems
+
+---
+
 # Courses Done
 
-Introduction to Computer Science, Data Structures, Software Lab, Probability and StochasticProcesses, Computer Networks, Operating Systems, Computer Architecture, Multimedia Systems,Mobile Computing, Selected Topics in Communication Engineering-I, Digital Communication andInformation Systems, Signal Theory, Signals and Systems, Digital Electronics, CommunicationEngineering, Digital Signal Processing, Digital Communications, Digital Hardware Design, Em-bedded Systems, Microprocessor Based Industrial Control, Digital Image Processing, SelectedTopics in Communication Engineering-II
+* Introduction to Computer Science
+* Data Structures
+* Software Lab
+* Probability and StochasticProcesses
+* Computer Networks
+* Operating Systems
+* Computer Architecture
+* Multimedia Systems
+* Mobile Computing
+* Selected Topics in Communication Engineering-I
+* Digital Communication andInformation Systems
+* Signal Theory
+* Signals and Systems
+* Digital Electronics
+* CommunicationEngineering
+* Digital Signal Processing
+* Digital Communications
+* Digital Hardware Design
+* Em-bedded Systems
+* Microprocessor Based Industrial Control
+* Digital Image Processing
+* SelectedTopics in Communication Engineering-II
