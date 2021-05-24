@@ -19,10 +19,11 @@ I have hands on experience of various industry level EDA Tools used in Front-end
 
 # EXPERIENCE
 
-## Lead Engineer
-- 5 years experience working as a Hardware Design Enginner at Samsung R&D Institute Delhi.
+## Lead Engineer II
+- Hardware Design Enginner at Samsung R&D Institute Delhi.
 
-[Projects](projects.md)
+## Summer Internship
+- Android Application Developer at Tencom Intellectual Ventures.
 
 ---
 
