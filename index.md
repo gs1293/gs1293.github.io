@@ -12,7 +12,7 @@ layout: default
 
 # ABOUT
 
-I am a Front-end ASIC digital hardware designer, with 5 years of experience in designing Video Display IP's.
+I am a Front-end ASIC digital hardware designer, with 5 years of experience in designing Video Display IP's.<br>
 I have hands on experience of various industry level EDA Tools used in Front-end ASIC design process.
 
 ---
@@ -29,7 +29,7 @@ I have hands on experience of various industry level EDA Tools used in Front-end
 # EDUCATION
 
 | Year        | College/School                       | Degree/Class                                                                            | CGPA/%age                      |
-| :----       | :----                                | :----                                                                                   | :----                          |
+| :----:      | :----                                | :----                                                                                   | :----                          |
 | 2011 - 2016 | Indian Institute of Technology Delhi | B.Tech in Electrical Engineering &<br>M.Tech in Infomation and Communication Technology | UG - 7.052/10<br>PG - 7.354/10 |
 | 2010        | The Air Force School, Subroto Park   | Senior Secondary Education - XII                                                        | 84%                            |
 | 2008        | The Air Force School, Subroto Park   | Secondary Education - X                                                                 | 84.67%                         |
