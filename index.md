@@ -9,9 +9,6 @@
 # ABOUT
 
 I am experienced in Digital Hardware RTL Design tasks using Verilog HDL.
-<p>
-  <a href="https://gs1293.github.io/resume/resume.html"> <font size="+2">Resume</font></a> <font size="+2"></font>
-</p>
 
 ---
 
