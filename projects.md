@@ -9,8 +9,8 @@ title: MY PROJECTS
 | :---:   | :---:   |
 | Text Detection | |
 | Texture Creation | |
-| Inverse Tone Mapping | <img src="images/inverse_tm.jpg" width="400"> |
-| Motion Estimation | <img src="images/motion_estimation.png" width="400"> |
+| Inverse Tone Mapping | <img src="images/inverse_tm.jpg" width="600"> |
+| Motion Estimation | <img src="images/motion_estimation.png" width="600"> |
 | Local Contrast Enhancement | |
 | Asynchronous FIFO | |
 | Neural Processing Unit | |
@@ -18,10 +18,10 @@ title: MY PROJECTS
 | Hybrid Deep Learning Super Scalar | |
 | Deep Learning Super Scalar | |
 | Mode Decision | |
-| Bilateral Filter | <img src="images/bilateral_filter.jpg" width="400"> |
+| Bilateral Filter | <img src="images/bilateral_filter.jpg" width="600"> |
 | DLSR with MAC Architecture | |
 | DLSR with Winograd Architecture | |
-| WGMA/DCARN/MLSR : Power Optimization | <img src="images/clock_gating.png" width="400"> |
+| WGMA/DCARN/MLSR : Power Optimization | <img src="images/clock_gating.png" width="600"> |
 | Python/Bash scripting | |
 | DL0, Post Processing, NPU | |
 
